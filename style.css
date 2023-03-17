@@ -1,0 +1,116 @@
+
+
+@import url('https://fonts.googleapis.com/css2?family=Tajawal:wght@200&display=swap');
+
+@media (min-width: 480px) {
+    /*CSS for medium width screens*/
+  }
+  
+  @media (min-width: 800px) {
+    /*CSS for wide screens*/
+  }
+  
+  @media (min-width: 1100px) {
+    /*CSS for really wide screens*/
+  }
+
+
+
+.principal{
+    width: 1000px;
+    margin: auto;
+  
+}
+
+body{
+    background-size: cover;
+    background-position: center center;
+    height: 100vh;
+    position: relative;
+    font-family: 'Tajawal', sans-serif;
+  
+}
+.nav{
+    
+    list-style: none;
+    position: relative;
+    bottom: 50px;
+    right: 270px;
+    left: 100px;
+    
+   
+}
+.nav li{
+    display: inline-block;
+    
+    
+ 
+}
+.nav li a {
+    padding: 13px 40px;
+    font-size: 20px;
+    text-decoration: none;
+    color: black;
+    
+
+}
+.nav li a:hover{
+    color: rgb(179, 159, 197);
+}
+
+.logo img{
+  width: 50px;
+  padding-top: 1%;
+  filter: invert(1);
+  position: relative;
+  right: 120px;
+  
+
+}
+.icon{
+    color: rgb(179, 159, 197);
+    
+}
+
+
+.content{
+    position: absolute;
+    margin: 20% 30%;
+    text-align: center;
+}
+.content h1{
+    text-transform: capitalize;
+    font-size:50px;
+    position: relative;
+    bottom: 190px;
+    left:170px
+   
+  
+   
+}
+.content p{
+    font-size: 40px;
+    position: relative;
+    bottom: 210px;
+    left: 170px;
+    color:#8c7ae6;
+    
+   
+}
+.content a{
+    margin-inline: 10px;
+    text-transform: uppercase;
+    position: relative;
+    bottom: 230px;
+    left:170px ;
+    color: black;
+    text-decoration: none;
+    
+}
+.content a:hover{
+    color: #e1b12c;
+}
+
+
+   
+
