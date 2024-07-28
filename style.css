@@ -82,7 +82,7 @@ body{
     text-transform: capitalize;
     font-size:50px;
     position: relative;
-    bottom: 190px;
+    bottom: 210px;
     left:170px
    
   
@@ -91,7 +91,7 @@ body{
 .content p{
     font-size: 40px;
     position: relative;
-    bottom: 210px;
+    bottom: 200px;
     left: 170px;
     color:#8c7ae6;
     
@@ -101,7 +101,7 @@ body{
     margin-inline: 10px;
     text-transform: uppercase;
     position: relative;
-    bottom: 230px;
+    bottom: 200px;
     left:170px ;
     color: black;
     text-decoration: none;
